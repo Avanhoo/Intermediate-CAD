@@ -34,6 +34,7 @@ In this project we had to design a swing arm piece, given only very barebones dr
 ### Pictures
 The whole swing arm:
 ![image](https://user-images.githubusercontent.com/113116247/197532055-0a09a21f-c535-4e88-87e2-01cc53780b21.png)
+
 The first sketch:
 ![image](https://user-images.githubusercontent.com/113116247/197532339-804973e7-c78c-43be-919f-b28c1575b315.png)
 
