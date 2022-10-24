@@ -1,10 +1,10 @@
 # Intermediate-CAD
 
 ## Table of Contents
-* [Table of Contents](#TableOfContents)
+* [Table of Contents](#TableofContents)
 * [Spinner](#Spinner)
-* [Swing-Arm](#Swing-Arm)
-* [CircuitPython_LCD](#CircuitPython_LCD)
+* [Swing Arm](#Swing-Arm)
+* [Multi-Part Design](#Multi-Part-Design)
 * [NextAssignmentGoesHere](#Next-Assignment)
 ---
 
