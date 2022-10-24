@@ -2,12 +2,14 @@
 
 ## Table of Contents
 * [Table of Contents](#TableofContents)
+* [Heading IDs](#heading-ids)
 * [Spinner](#Spinner)
 * [Swing Arm](#swing-arm)
 * [Multi-Part Design](#Multi-PartDesign)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
+# Heading IDs {#heading-ids}
 
 ## Spinner
 
