@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Table of Contents](#TableofContents)
 * [Spinner](#Spinner)
-* [Swing Arm](#SwingArm)
+* [Swing Arm](#swing-arm)
 * [Multi-Part Design](#Multi-PartDesign)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
@@ -26,7 +26,7 @@ These are the parts I worked on:
 Alas, I had not once used the helix nor sweep tools proceeding this occurrence. The whole caboodle went smoothly nonetheless, save for for me besmirching one dimension, but t'was untroublesome to rectify. We also used the branch tools for the first time in this project, which allowed us to make multiple versions without destroying the original.
 
 
-## Swing Arm {#SwingArm}
+## Swing Arm {#swing-arm}
 
 ### Description
 In this project we had to design a swing arm piece, given only very barebones drawings of it. 
