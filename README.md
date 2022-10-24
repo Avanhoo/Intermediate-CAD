@@ -3,9 +3,9 @@
 ## Table of Contents
 * [Table of Contents](#TableofContents)
 * [Spinner](#Spinner)
-* [Swing Arm](#Swing-Arm)
-* [Multi-Part Design](#Multi-Part-Design)
-* [NextAssignmentGoesHere](#Next-Assignment)
+* [Swing Arm](#SwingArm)
+* [Multi-Part Design](#Multi-PartDesign)
+* [NextAssignmentGoesHere](#NextAssignment)
 ---
 
 
@@ -26,7 +26,7 @@ These are the parts I worked on:
 Alas, I had not once used the helix nor sweep tools proceeding this occurrence. The whole caboodle went smoothly nonetheless, save for for me besmirching one dimension, but t'was untroublesome to rectify. We also used the branch tools for the first time in this project, which allowed us to make multiple versions without destroying the original.
 
 
-## Swing Arm {#Swing-Arm}
+## Swing Arm
 
 ### Description
 In this project we had to design a swing arm piece, given only very barebones drawings of it. 
@@ -42,7 +42,7 @@ The first sketch:
 I had to be very patient during this project. I always want to dimension everything before moving on, but during this project I had to just go based on what I had and leave some things unconstrained and undefined while I continued to work. Everything does end up being constrained in the end, but it takes a while for some things to get resolved. Another challenge was that we had to then plug in new numbers for some dimensions, which made me have to go back and fix some constraints that hadn't been designed with that in mind.
 
 
-## Multi-Part Design {#Multi-Part-Design}
+## Multi-Part Design
 
 ### Description
 The goal of this project was similar to the swing arm, except here we were making multiple parts from the given sketches, which were very comprehensive. The branch tool was also used to make multiple versions.
@@ -55,7 +55,7 @@ The goal of this project was similar to the swing arm, except here we were makin
 This project was easier than the swing arm because the drawings were in much more detail, though we had to give materials to parts and get a mass measurement at the end. My measurements were spot on for the first 3 versions, and just a bit off on the last. 
 
 
-## Next Assignment {#Next-Assignment}
+## Next-Assignment
 
 ### Description
 
