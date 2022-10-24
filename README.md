@@ -1,11 +1,11 @@
 # Intermediate-CAD
 
 ## Table of Contents
-* [Table of Contents](#TableofContents)
-* [Spinner](#Spinner)
+* [Table of Contents](#table-of-contents)
+* [Spinner](#spinner)
 * [Swing Arm](#swing-arm)
-* [Multi-Part Design](#Multi-PartDesign)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [Multi-Part Design](#multi-part-design)
+* [NextAssignmentGoesHere](#next-assignment)
 ---
 
 
