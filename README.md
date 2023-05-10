@@ -5,7 +5,7 @@
 * [Spinner](#spinner)
 * [Swing Arm](#swing-arm)
 * [Multi-Part Design](#multi-part-design)
-* [NextAssignmentGoesHere](#next-assignment)
+* [Assemblies](#assemblies)
 ---
 
 
@@ -57,13 +57,15 @@ The goal of this project was similar to the swing arm, except here we were makin
 This project was easier than the swing arm because the drawings were in much more detail, though we had to give materials to parts and get a mass measurement at the end. My measurements were spot on for the first 3 versions, and just a bit off on the last. 
 
 
-## Next-Assignment
+## Assemblies
 
 ### Description
-
+This was an assignment with premade parts that we had to assemble.
 
 ### Pictures
-
+![Screenshot 2023-05-10 9 39 38 AM](https://github.com/Avanhoo/Intermediate-CAD/assets/113116247/36b87e03-2998-46ff-857e-2414c2594f30)
+![image](https://github.com/Avanhoo/Intermediate-CAD/assets/113116247/9105a0b1-a2d3-4939-96bb-033c10149beb)
+There were a lot of mate connectors herethat could be very finicky.
 
 ### Reflection
-
+There were a lot of little things I didn't know that this assignment helped with. One of them is reorienting parts in an assembly. I never knew how to rotate parts without mating them, and didn't know how to snap things to the origin. The explicit mate connectors also see very helpful when you have a very specific place you want mated, or need to use it for a measurement reference point.
