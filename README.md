@@ -6,6 +6,7 @@
 * [Swing Arm](#swing-arm)
 * [Multi-Part Design](#multi-part-design)
 * [Assemblies](#assemblies)
+* [Onshape Certification](#onshape-certification)
 ---
 
 
@@ -70,3 +71,7 @@ There were a lot of mate connectors here that could be very finicky.
 
 ### Reflection
 There were a lot of little things I didn't know that this assignment helped with. One of them is reorienting parts in an assembly. I never knew how to rotate parts without mating them, and didn't know how to snap things to the origin. The explicit mate connectors also see very helpful when you have a very specific place you want mated, or need to use it for a measurement reference point.
+
+## Onshape Certification
+I feel like the preparation for the exam helped a lot and made me prepared. All of the things I had to model / assemble on the test were *very* similar to the practice documents.
+![image](https://github.com/Avanhoo/Intermediate-CAD/assets/113116247/ecaded82-1bc0-4d47-81dd-beb629edf0fa)
